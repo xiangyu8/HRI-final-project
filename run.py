@@ -1,4 +1,4 @@
-# 	File Name: faceScaffold.py
+# 	File Name: run.py
 #	Author: Xiangyu
 #	Email Address: xychen@ku.edu
 #	Description: This is the final project for EECS 700 in fall 2019. It aims to let cozmo learn faces online assisting by human’s voice(guidance). E.g. Human: “This is Shirley.” Cozmo takes a picture of her and record her name to dataset. Then use the dataset to recognize her again when it sees her next time.
