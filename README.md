@@ -1,4 +1,5 @@
 ## Paper link: [Improving Engagement by Letting Social Robots Learn and Call Your Name](https://dl.acm.org/doi/abs/10.1145/3371382.3378355)
+## Video link: [HRI 2020 presentation] (https://youtu.be/JehXz5JRtnI)
 
 ## Installation
 ### 1. Install Cozmo SDK: (official instruction can be found here http://cozmosdk.anki.com/docs/install-macos.html)
