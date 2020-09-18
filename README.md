@@ -1,4 +1,4 @@
-Paper link: https://dl.acm.org/doi/abs/10.1145/3371382.3378355
+## Paper link: https://dl.acm.org/doi/abs/10.1145/3371382.3378355
 
 ## Installation
 ### 1. Install Cozmo SDK: (official instruction can be found here http://cozmosdk.anki.com/docs/install-macos.html)
