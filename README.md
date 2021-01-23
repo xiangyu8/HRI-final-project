@@ -49,5 +49,5 @@ adb devices
 5) Download this .py file.
 6) Execute this .py file on your terminal.
 ```
-python3 faceScaffolding.py
+python3 run.py
 ```
